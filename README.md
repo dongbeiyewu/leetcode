@@ -1,6 +1,13 @@
 ## [Hash相关](https://github.com/dongbeiyewu/leetcode/tree/master/hash%E7%9B%B8%E5%85%B3)
 
 + [q1_两数之和](https://github.com/dongbeiyewu/leetcode/tree/master/hash%E7%9B%B8%E5%85%B3/q1_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C)
++ [q3_无重复字符的最长子串]
++ [q15_三数之和]
++ [q187_重复的DNA序列]
++ [q349_两个数组的交集]
++ [q350_两个数组的交集II]
++ [q447_回旋镖的数量]
++ [q447_回旋镖的数量]
 
 
 ## 链表操作
