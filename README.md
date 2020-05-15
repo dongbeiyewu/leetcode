@@ -1,4 +1,5 @@
-## Hash相关
+## [Hash相关](https://github.com/dongbeiyewu/leetcode/tree/master/hash%E7%9B%B8%E5%85%B3)
+
 + [q1_两数之和](https://github.com/dongbeiyewu/leetcode/blob/master/hash%E7%9B%B8%E5%85%B3/%5Bq1_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/%5Bq1_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
 
